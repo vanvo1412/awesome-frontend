@@ -20,6 +20,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [CSS/HTML/JS tests](https://sitthetest.com/tests)
 * [JS general tips](http://www.jstips.co/)
 * [JavaScript free course](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
+* [Loupe] (http://latentflip.com/loupe) - JavaScript runtime simulation
 ### CSS
 * [Animation Playground](https://tympanus.net/codrops/category/playground/)
 * [Ribbon generator](http://www.cssportal.com/css-ribbon-generator/) - This generator will assist you in creating a pure CSS corner ribbon
@@ -38,7 +39,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Angular Flex-layout](https://tburleson-layouts-demos.firebaseapp.com/#/docs)
 ### JQuery
 * [JQuery API board](http://overapi.com/jquery)
-### BootStrap
+### Bootstrap
 * [BootStrap element gallery](https://bootsnipp.com/) - Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
 * [Bootply](https://www.bootply.com/) - The Bootstrap Playground
 * [BootStrap classes list](https://gist.github.com/geksilla/6543145) - Boostrap css class
