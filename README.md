@@ -20,7 +20,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [CSS/HTML/JS tests](https://sitthetest.com/tests)
 * [JS general tips](http://www.jstips.co/)
 * [JavaScript free course](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
-* [Loupe] (http://latentflip.com/loupe) - JavaScript runtime simulation
+* [Loupe](http://latentflip.com/loupe) - JavaScript runtime simulation
 ### CSS
 * [Animation Playground](https://tympanus.net/codrops/category/playground/)
 * [Ribbon generator](http://www.cssportal.com/css-ribbon-generator/) - This generator will assist you in creating a pure CSS corner ribbon
